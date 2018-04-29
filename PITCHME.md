@@ -5,6 +5,7 @@
 #### PyData London 2018
 #### Pavlo Andriychenko
 #### http://bit.ly/pydatalondon2018-binderhub
+#### http://bit.ly/pydatalondon2018-binderhub-launcher
 
 ---
 
